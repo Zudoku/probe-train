@@ -16,4 +16,6 @@ dependencies {
     api "com.badlogicgames.gdx:gdx-controllers:$gdxVersion"
     api "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
     api "io.github.libktx:ktx-actors:$ktxVersion"
+    api "org.kodein.di:kodein-di-generic-jvm:$kodeinVersion"
+    api "org.kodein.di:kodein-di-conf-jvm:$kodeinVersion"
 }
